@@ -14,9 +14,9 @@
 - 📫 How to reach me : mailmevishnudas@gmail.com
 
 
-Visit my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Writing-Showcase-) repository to see the documents I have produced.
+Visit my [**Tech Writing Samples**](https://github.com/sreevidya2020/TechWrite_samples) repository to see the documents I have produced.
 
-You can read my articles published on Medium. Check out my profile - [Vishnu Das | Medium](https://medium.com/@vishnudasambady)
+You can read my articles published on Medium. Check out my profile - [Sreevidya S | Medium](https://medium.com/@vidyasree.sj)
 
 
 
