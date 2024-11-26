@@ -20,9 +20,6 @@ You can read my articles published on Medium. Check out my profile - [Vishnu Das
 
 
 
-#### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{vishnudasTW}/count.svg)
-
 <!---
 vishnudasTW/vishnudasTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
