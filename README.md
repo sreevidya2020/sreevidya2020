@@ -7,11 +7,11 @@
 
 
 
-- 👋 Hi, I am a Sr. Information Developer / Doc Specialist. I translate Machines for Humans! 
+- 👋 Hi, I am an 
 - 👀 I’m interested in Technology, Software and Scientific Advances.
 - 🌱 I’m currently learning new trends in technical writing.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mailmevishnudas@gmail.com
+- 📫 How to reach me : vidyasree.sj@gmail.com
 
 
 Visit my [**Tech Writing Samples**](https://github.com/sreevidya2020/TechWrite_samples) repository to see the documents I have produced.
