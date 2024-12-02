@@ -7,7 +7,7 @@
 
 
 
-- 👋 Hi, I am an aspiring Technical Writer 
+- 👋 Hi, I am an aspiring Technical Writer, experienced Copy Editor and Proofreader. 
 - 👀 I’m interested in Technology, Software and Scientific Advances.
 - 🌱 I’m currently learning new trends in technical writing.
 - 💞️ I’m looking to collaborate on ...
